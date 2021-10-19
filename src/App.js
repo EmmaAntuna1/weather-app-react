@@ -4,7 +4,8 @@ import './App.css';
 export default function App() {
   return (
   <div className="App">
-    Weather App
+    <div className="container">
+    <h1>Weather App</h1>
     <footer>
       This project was coded by Emma Antuna and is{" "}
     <a href="https://github.com/EmmaAntuna1/weather-app-react"
@@ -13,6 +14,7 @@ export default function App() {
        open-sourced on github
     </a>
     </footer>
+    </div>
   </div>
   );
 }
