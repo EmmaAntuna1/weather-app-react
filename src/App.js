@@ -11,8 +11,13 @@ export default function App() {
       This project was coded by Emma Antuna and is{" "}
     <a href="https://github.com/EmmaAntuna1/weather-app-react"
     target="_blank"
-    >
+    rel="noopener noreferrer">
        open-sourced on github
+    </a>
+    {" "}and 
+    <a href="https://stupefied-mirzakhani-578f0f.netlify.app/" target="_blank"
+    rel="noopener noreferrer"> 
+    hosted on Netlify
     </a>
     </footer>
     </div>
