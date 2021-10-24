@@ -15,7 +15,7 @@ export default function App() {
        open-sourced on github
     </a>
     {" "}and 
-    <a href="https://stupefied-mirzakhani-578f0f.netlify.app/" target="_blank"
+    <a href="https://reverent-ritchie-af8e63.netlify.app" target="_blank"
     rel="noopener noreferrer"> 
     {" "}hosted on Netlify
     </a>
